@@ -1,0 +1,3 @@
+[
+    { "keys": ["ctrl+k", "ctrl+i"], "command": "add_amd_module" }
+]
