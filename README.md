@@ -20,7 +20,7 @@ The idea is to turn this:
 
 into this:
 
-    define(['jquery', 'moment'], function($, moment, ) {
+    define(['jquery', 'moment'], function($, moment) {
       moment
     });
 
